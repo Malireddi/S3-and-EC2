@@ -1,7 +1,7 @@
 # Ex--2-AWS-Account-setup-and-S3-creation
 ~~~
-Name : paida ram sai
-reg.no : 212223110034
+Name : Malyadri Reddy N
+reg.no : 212223100037
 ~~~
 # Introduction
 
